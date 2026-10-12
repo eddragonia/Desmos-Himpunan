@@ -1,2 +1,2 @@
 # Desmos-Himpunan
-Untuk mengenal irisan dan gabungan himpunan
+Untuk mengenal mengenai himpunan, irisan, gabungan, selisih, komplemen, dsb.
